@@ -1,0 +1,20 @@
+TransCell third-party notices
+=============================
+
+This repository contains code adapted from UniPort/SCALEX-style single-cell
+integration components under the MIT License.
+
+The original MIT license notice must be retained in copies or substantial
+portions of the adapted software:
+
+Copyright (c) 2022 Kai Cao
+
+Permission is granted under the MIT License to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the software, subject to
+including the copyright notice and permission notice in copies or substantial
+portions of the software.
+
+TransCell-specific scripts, parameter presets, human-mouse benchmark wiring,
+and manuscript-oriented experiment names are maintained for the TransCell
+project.
+
